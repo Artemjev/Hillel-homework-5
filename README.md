@@ -1,4 +1,6 @@
-TODO: Develop an application to encrypt and decrypt strings with Caesar and XOR ciphers.
+TODO:
+
+Develop an application to encrypt and decrypt strings with Caesar and XOR ciphers. 
 
 Implement UI:
 
@@ -8,7 +10,9 @@ Implement UI:
  - decrypt XOR cipher
  - exit
 -------------------------------------
-Задание: Написать приложение для шифрования и расшифровки строк шифрами цезаря и XOR.
+Задание:
+
+Написать приложение для шифрования и расшифровки строк шифрами цезаря и XOR.
 
 Реализовать меню:
 
